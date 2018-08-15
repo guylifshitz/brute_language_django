@@ -1,0 +1,5 @@
+/env/
+*.DS_Store
+*.cpython-37.pyc
+/brute_language_django/words/scripts/data/*
+

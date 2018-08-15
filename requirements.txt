@@ -12,3 +12,4 @@ psycopg2==2.7.4
 pytz==2018.5
 six==1.11.0
 uWSGI==2.0.17
+Markdown==2.6.11
