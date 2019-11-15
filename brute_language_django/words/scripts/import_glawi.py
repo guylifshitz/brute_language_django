@@ -1,5 +1,5 @@
 from words.models import Article
-
+# TODO auto download the glawi DB if it isnt there 
 
 class ImportGLAWI():
     import xml.etree.ElementTree as ElementTree
